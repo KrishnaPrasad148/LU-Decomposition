@@ -13,25 +13,36 @@ To write a program to find the LU Decomposition of a matrix.
 3. Define a package as "from scipy.linalg import lu_factor, lu_solve" and create the variable as 'X' include the package in that variable.
 4. print the variable 'X'
 ## Program:
+```
+Developed by: S.Krishna Prasad
+RegisterNumber: 212223230108
+```
 (i) To find the L and U matrix
 ```
-/*
-Program to find the L and U matrix.
-Developed by: 
-RegisterNumber: 
-*/
+import numpy as np
+from scipy.linalg import lu
+A = np.array(eval(input()))
+P,L,U = lu(A)
+print(L)
+print(U)
 ```
 (ii) To find the LU Decomposition of a matrix
 ```
-/*
-Program to find the LU Decomposition of a matrix.
-Developed by: 
-RegisterNumber: 
-*/
+import numpy as np
+A = np.array(eval(input()))
+B = np.array(eval(input()))
+C = np.linalg.solve(A,B)
+print(C)
 ```
 
 ## Output:
-![lu decomposition]()
+## i)
+![image](https://github.com/KrishnaPrasad148/LU-Decomposition/assets/147332763/f47dd6f3-679b-47ad-bd18-48021a1fe638)
+![image](https://github.com/KrishnaPrasad148/LU-Decomposition/assets/147332763/5d60d259-f9fc-4ef5-9722-efcd0557a1e9)
+
+## ii)
+![image](https://github.com/KrishnaPrasad148/LU-Decomposition/assets/147332763/f4c50788-0b6d-4256-ac21-4b7103a14579)
+
 
 
 ## Result:
