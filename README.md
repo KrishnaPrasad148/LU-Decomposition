@@ -47,7 +47,9 @@ print(X)
 ![image](https://github.com/KrishnaPrasad148/LU-Decomposition/assets/147332763/5d60d259-f9fc-4ef5-9722-efcd0557a1e9)
 
 ## ii)
-![image](https://github.com/KrishnaPrasad148/LU-Decomposition/assets/147332763/f4c50788-0b6d-4256-ac21-4b7103a14579)
+![Web_Photo_Editor](https://github.com/KrishnaPrasad148/LU-Decomposition/assets/147332763/c31bb54d-3841-4039-afe1-0d81047495ba)
+![320253112-17ded43a-a6c9-464e-b192-3c3e066205e3](https://github.com/KrishnaPrasad148/LU-Decomposition/assets/147332763/52db64e9-d701-4a67-8271-3dc96f97890b)
+
 
 
 
